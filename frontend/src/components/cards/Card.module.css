@@ -1,0 +1,50 @@
+.containerCard{
+  display: inline-block;   
+  justify-content: center;
+  text-decoration: none;
+}
+
+
+.card {
+  text-align: center;
+  margin: 20px;
+  margin-right: 20px;
+}
+  
+.card{
+  border-radius: 12px;
+  box-shadow: 5px 5px 15px 5px rgba(1, 23, 61, 0.22);
+  padding: 25px;
+  transition: all 0,3s ease-out;
+  background: whitesmoke;
+  width: 200PX;
+  text-align: center;
+
+}
+
+.card:hover{
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+.cardImageLivro {
+  width: 100%;
+}
+
+  
+.card h2 {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  width: 100%;
+
+}
+
+.cardTitulo{
+  height: 7vh;
+  text-align: center;
+
+}
+
+
+  
+  
