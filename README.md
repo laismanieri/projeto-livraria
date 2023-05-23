@@ -109,10 +109,11 @@
   -   Commit Conventional:  **[Commitlint](https://github.com/conventional-changelog/commitlint)**
   -   Ícones:  **[Flaticom](https://www.flaticon.com/br/)**
   -   Paleta de cores: **[Paleta de cores](https://paletadecores.com/)** 
-  -   W3C **[validator](https://validator.w3.org/)** 
-  -   Kanban **[Trello](https://trello.com/)** 
-  
-  
+  -   W3C: **[validator](https://validator.w3.org/)** 
+  -   Kanban: **[Trello](https://trello.com/)** 
+  -   Criação de diagrams: **[Astah](https://astah.net/downloads/)** 
+		  
+ 
 ---  
 ## 👨‍💻 Contribuidores 
 
