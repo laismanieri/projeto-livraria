@@ -90,12 +90,15 @@
   -   **CSS**
   -   **Javascript**
   -   **Node**
+  -   **React**		  
   -   **JAVA** 
   -   **SpringBoot**
+  -   **SpringData**
   -   **MySQL**
   -   **Figma**
   -   **Postman**
   -   **Xampp**
+  -   **Bootstrap**
   
   **Utilitários**
   
@@ -107,6 +110,7 @@
   -   Ícones:  **[Flaticom](https://www.flaticon.com/br/)**
   -   Paleta de cores: **[Paleta de cores](https://paletadecores.com/)** 
   -   W3C **[validator](https://validator.w3.org/)** 
+  -   Kanban **[Trello]((https://trello.com/))** 
   
   
 ---  
