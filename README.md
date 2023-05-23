@@ -111,7 +111,7 @@
   -   Paleta de cores: **[Paleta de cores](https://paletadecores.com/)** 
   -   W3C: **[validator](https://validator.w3.org/)** 
   -   Kanban: **[Trello](https://trello.com/)** 
-  -   Criação de diagrams: **[Astah](https://astah.net/downloads/)** 
+  -   Criação de diagramas: **[Astah](https://astah.net/downloads/)** 
 		  
  
 ---  
