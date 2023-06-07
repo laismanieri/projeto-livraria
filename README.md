@@ -18,7 +18,7 @@
   ## 💻 Sobre o projeto
   
   <p align="justify"> O projeto tem como objetivo a implementação de um site e-commerce, para a livraria Universo dos Livros, que atualmente só comercializa seus livros em loja física, para expandir os negócios, atender o público que realiza compras pela internet e os leitores de e-book.  Também será construido uma nova plataforma para o administrador gerenciar o estoque de livros. <br>
-  Utilizamos as habilidades em backend com Java SpringBoot, Banco de dados MySQL, Frontend com Html, Css, Javascript, React e BootStrap para a contrução do site e da plataforma de gerenciamento. 
+  Utilizamos as habilidades em backend com Java SpringBoot, banco de dados MySQL, frontend com Html, CSS, Javascript, React e BootStrap para a contrução do site e da plataforma de gerenciamento. 
   O sistema permite cadastro, edição e exclusão de clientes, livros e usuarios da plataforma administrativa. 
 
    Projeto desenvolvido durante o curso **Técnico de Desenvolvimento de Sistemas** oferecido pelo [SENAI - Suiço-Brasileiro ](https://suicobrasileira.sp.senai.br/curso/85566/115/tecnico-em-desenvolvimento-de-sistemas).</p>
@@ -28,17 +28,17 @@
   
   ## ⚙️ Funcionalidades
     
-:heavy_check_mark: Cadastro de clientes, livros, usuarios, pedidos e compra
+:heavy_check_mark: Cadastro de clientes, livros, usuários, pedidos e compra
 
-:heavy_check_mark: Listagem de clientes, livros, usuarios, pedidos e compra
+:heavy_check_mark: Listagem de clientes, livros, usuários, pedidos e compra
 
-:heavy_check_mark: Atualização de clientes, livros, usuarios, pedidos e compra
+:heavy_check_mark: Atualização de clientes, livros, usuários, pedidos e compra
 
-:heavy_check_mark: Deletar clientes, livros e usuarios, pedidos e compra
+:heavy_check_mark: Deletar clientes, livros e usuários, pedidos e compra
 
-:heavy_check_mark: Buscar livros por titulo, autor, editora, ano e genero
+:heavy_check_mark: Buscar livros por título, autor, editora, ano e gênero
 
-:heavy_check_mark: Filtrar livros por titulo, autor, editora, ano, genero e quantidade de pagina
+:heavy_check_mark: Filtrar livros por título, autor, editora, ano, gênero e quantidade de página
 
 
 
